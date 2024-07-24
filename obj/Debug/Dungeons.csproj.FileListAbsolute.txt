@@ -1,0 +1,43 @@
+C:\Users\mr.x145\source\repos\Dungeons\Dungeons\bin\Debug\Dungeons.exe.config
+C:\Users\mr.x145\source\repos\Dungeons\Dungeons\bin\Debug\Dungeons.exe
+C:\Users\mr.x145\source\repos\Dungeons\Dungeons\bin\Debug\Dungeons.pdb
+C:\Users\mr.x145\source\repos\Dungeons\Dungeons\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\mr.x145\source\repos\Dungeons\Dungeons\obj\Debug\Dungeons.csproj.AssemblyReference.cache
+C:\Users\mr.x145\source\repos\Dungeons\Dungeons\obj\Debug\Dungeons.csproj.SuggestedBindingRedirects.cache
+C:\Users\mr.x145\source\repos\Dungeons\Dungeons\obj\Debug\Dungeons.Properties.Resources.resources
+C:\Users\mr.x145\source\repos\Dungeons\Dungeons\obj\Debug\Dungeons.csproj.GenerateResource.cache
+C:\Users\mr.x145\source\repos\Dungeons\Dungeons\obj\Debug\Dungeons.csproj.CoreCompileInputs.cache
+C:\Users\mr.x145\source\repos\Dungeons\Dungeons\obj\Debug\Dungeons.csproj.CopyComplete
+C:\Users\mr.x145\source\repos\Dungeons\Dungeons\obj\Debug\Dungeons.exe
+C:\Users\mr.x145\source\repos\Dungeons\Dungeons\obj\Debug\Dungeons.pdb
+C:\Users\mr.x145\source\repos\Dungeons\Dungeons\obj\Debug\Dungeons.Decrypt.resources
+C:\Users\mr.x145\source\repos\Dungeons\Dungeons\obj\Debug\Dungeons.About_us.resources
+C:\Users\mr.x145\source\repos\Dungeons\Dungeons\obj\Debug\Dungeons.Encryption.resources
+C:\Users\mr.x145\source\repos\Dungeons\Dungeons\obj\Debug\Dungeons.Home.resources
+C:\Users\mr.x145\source\repos\Dungeons\Dungeons\obj\Debug\Dungeons.BaseForm.resources
+C:\Users\mr.x145\source\repos\Dungeons\Dungeons\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\mr.x145\source\repos\Dungeons\Dungeons\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\mr.x145\source\repos\Dungeons\Dungeons\obj\Debug\Dungeons.exe.licenses
+C:\Users\mr.x145\source\repos\Dungeons\Dungeons\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\mr.x145\source\repos\Dungeons\Dungeons\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\mr.x145\source\repos\Dungeons\Dungeons\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\ahmed abbad\source\repos\Dungeons_\Dungeons\obj\Debug\Dungeons.csproj.AssemblyReference.cache
+C:\Users\ahmed abbad\source\repos\Dungeons_\Dungeons\obj\Debug\Dungeons.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmed abbad\source\repos\Dungeons_\Dungeons\obj\Debug\Dungeons.About_us.resources
+C:\Users\ahmed abbad\source\repos\Dungeons_\Dungeons\obj\Debug\Dungeons.Decrypt.resources
+C:\Users\ahmed abbad\source\repos\Dungeons_\Dungeons\obj\Debug\Dungeons.Encryption.resources
+C:\Users\ahmed abbad\source\repos\Dungeons_\Dungeons\obj\Debug\Dungeons.Home.resources
+C:\Users\ahmed abbad\source\repos\Dungeons_\Dungeons\obj\Debug\Dungeons.BaseForm.resources
+C:\Users\ahmed abbad\source\repos\Dungeons_\Dungeons\obj\Debug\Dungeons.Properties.Resources.resources
+C:\Users\ahmed abbad\source\repos\Dungeons_\Dungeons\obj\Debug\Dungeons.csproj.GenerateResource.cache
+C:\Users\ahmed abbad\source\repos\Dungeons_\Dungeons\obj\Debug\Dungeons.exe.licenses
+C:\Users\ahmed abbad\source\repos\Dungeons_\Dungeons\obj\Debug\Dungeons.csproj.CoreCompileInputs.cache
+C:\Users\ahmed abbad\source\repos\Dungeons_\Dungeons\bin\Debug\Dungeons.exe.config
+C:\Users\ahmed abbad\source\repos\Dungeons_\Dungeons\bin\Debug\Dungeons.exe
+C:\Users\ahmed abbad\source\repos\Dungeons_\Dungeons\bin\Debug\Dungeons.pdb
+C:\Users\ahmed abbad\source\repos\Dungeons_\Dungeons\bin\Debug\EntityFramework.dll
+C:\Users\ahmed abbad\source\repos\Dungeons_\Dungeons\bin\Debug\EntityFramework.xml
+C:\Users\ahmed abbad\source\repos\Dungeons_\Dungeons\obj\Debug\Dungeons.csproj.CopyComplete
+C:\Users\ahmed abbad\source\repos\Dungeons_\Dungeons\obj\Debug\Dungeons.exe
+C:\Users\ahmed abbad\source\repos\Dungeons_\Dungeons\obj\Debug\Dungeons.pdb
+C:\Users\ahmed abbad\source\repos\Dungeons_\Dungeons\obj\Debug\Dungeons.checkID.resources

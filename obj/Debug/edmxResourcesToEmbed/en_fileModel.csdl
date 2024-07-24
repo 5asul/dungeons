@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="dungeonsModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="account">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="username" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="email" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="password" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="en_file" Relationship="Self.FK_en_file_account" FromRole="account" ToRole="en_file" />
+  </EntityType>
+  <EntityType Name="en_file">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="file_name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="account_id" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="account" Relationship="Self.FK_en_file_account" FromRole="en_file" ToRole="account" />
+  </EntityType>
+  <Association Name="FK_en_file_account">
+    <End Role="account" Type="Self.account" Multiplicity="1" />
+    <End Role="en_file" Type="Self.en_file" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="account">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="en_file">
+        <PropertyRef Name="account_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="dungeonsEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="accounts" EntityType="Self.account" />
+    <EntitySet Name="en_file" EntityType="Self.en_file" />
+    <AssociationSet Name="FK_en_file_account" Association="Self.FK_en_file_account">
+      <End Role="account" EntitySet="accounts" />
+      <End Role="en_file" EntitySet="en_file" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
